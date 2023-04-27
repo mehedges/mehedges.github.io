@@ -1,1 +1,2 @@
-![<LinkedIn>](![In-Blue-Logo png original](https://user-images.githubusercontent.com/<102606124/235008721-012d600e-0a2d-4b10-954d-2e6d4fa24102.png>)-<#0A66C2>?style=for-the-badge&logo=<[LinkedIn](https://www.linkedin.com/in/madison-hedges-b3988b222/)>&logoColor=<white>)
+![In-Blue-Logo png original](https://user-images.githubusercontent.com/102606124/235008808-c0ba28f9-b130-4d0e-a2fb-8e4400c41e97.png)
+[My LinkedIn Page] https://www.linkedin.com/in/madison-hedges-b3988b222/
