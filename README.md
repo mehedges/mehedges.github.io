@@ -1,1 +1,1 @@
-![<Badge Name>](https://img.shields.io/badge/<LinkedIn>-<#0A66C2>?style=for-the-badge&logo=<[LinkedIn](https://www.linkedin.com/in/madison-hedges-b3988b222/)>&logoColor=<white>)
+![<LinkedIn>](![In-Blue-Logo png original](https://user-images.githubusercontent.com/<102606124/235008721-012d600e-0a2d-4b10-954d-2e6d4fa24102.png>)-<#0A66C2>?style=for-the-badge&logo=<[LinkedIn](https://www.linkedin.com/in/madison-hedges-b3988b222/)>&logoColor=<white>)
